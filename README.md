@@ -4,7 +4,7 @@ First interface of the app
 - Click to the add items button to store item in the list
 ![Screenshot 2024-04-23 001826](https://github.com/IshantVx/Android-Development/assets/141472336/d81cb174-5b82-4913-9660-fbc0d0fd3bd2)
 
-After popup after clicking add items button
+After popup click add items button
 -Type the item name in the first box 
 -Type the item quantity in the second box and click Add 
 ![Screenshot 2024-04-23 001924](https://github.com/IshantVx/Android-Development/assets/141472336/ac31cf0e-f143-4cd1-a7be-80e51fea0be5)
